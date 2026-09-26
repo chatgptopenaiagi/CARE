@@ -1,0 +1,22 @@
+# Private inputs, machine evidence, credentials, and disposable artifacts.
+.local/
+artifacts/
+.env
+.env.*
+!.env.example
+auth.json
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Future generated outputs and editor caches. Synthetic fixtures stay trackable.
+bin/
+obj/
+node_modules/
+.venv/
+__pycache__/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db

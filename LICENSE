@@ -1,0 +1,11 @@
+CARE — licensing pending
+
+No project-wide license is granted by this repository at Genesis.
+Rights remain with their respective rights holders. Repository access or
+visibility does not establish an open-source or commercial license grant.
+
+An explicit licensing decision is required before adopting a project license
+or distributing third-party components. No third-party implementation is
+included in this documentation foundation.
+
+Decision record: docs/DECISIONS.md, CARE-ADR-009.
